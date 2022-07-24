@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello there 👋👋👋
 
-<!--
-**fakhrirasyids/fakhrirasyids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 I’m Fakhri Rasyid Saputro, you can call me Fakhri
+- 🏡 I live in **Salatiga, Indonesia**
+- 🔭 Currently studying at Universitas Dian Nuswantoro
+- 👨‍🎓 Undergrad **Information Engineering** Student 
+- 📱 Focusing on Mobile App Development
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Stats
+
+<p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=fakhrirasyids&theme=tokyonight&card_height=150px&hide=issues,">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakhrirasyids&langs_count=10&theme=tokyonight&card_height=150px&layout=compact&card_width=250px">
+</p>
