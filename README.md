@@ -1,10 +1,4 @@
-# Hello there 👋👋👋
-
-- 😄 I’m Fakhri Rasyid Saputro, you can call me Fakhri
-- 🏡 I live in **Salatiga, Indonesia**
-- 🔭 Currently studying at Universitas Dian Nuswantoro
-- 👨‍🎓 Undergraduate **Information Engineering** Student 
-- 📱 Focusing on Mobile App Development
+### Learn, Create, and Connect🚀🚀🚀
 
 ## Social Medias 📬
 
